@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://indebove.github.io/sitemap
+Sitemap: https://indebove.github.io/app/sitemap
+Sitemap: https://indebove.github.io/assets/sitemap
+Sitemap: https://indebove.github.io/css/sitemap
+Sitemap: https://indebove.github.io/includes/sitemap
+Sitemap: https://indebove.github.io/item/sitemap
+Sitemap: https://indebove.github.io/src/sitemap
